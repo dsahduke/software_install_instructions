@@ -1,6 +1,6 @@
 # Installation Instructions
 
-Modern data science is an interdisciplinary science that incorporates many of the practices of modern software engineering. As such, there are many software packages/programming languages that you will need for this course. We have tried to strike a balance between having every student download everything they would ever need versus just the minimal environment needed to run some basic analysis. You will need to allocate *15GB* of free space for the environments for this course. If this is a problem, please let the teaching staff know as soon as possible so that we can make the appropriate modificiations.
+Modern data science is an interdisciplinary science that incorporates many of the practices of modern software engineering. As such, there are many software packages/programming languages that you will need for this course. We have tried to strike a balance between having every student download everything they would ever need versus just the minimal environment needed to run some basic analysis. You will need to allocate *10GB* of free space for the environments for this course. If this is a problem, please let the teaching staff know as soon as possible so that we can make the appropriate modificiations.
 
 ### Git
 
