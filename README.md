@@ -36,7 +36,7 @@ If you do not wish to use Anaconda, you can find instructions on how to just ins
 
 For those of you that are already familiar with tools such as Docker, you can pull the following container down and it will contain everything you need to run the notebooks for this course unless otherwise specified.
 
-`docker pull juyter/scipy-notebook`
+`docker pull jupyter/scipy-notebook`
 
 We will also provide docker images for any of the analysis later on in the course upon request. 
 
